@@ -4,7 +4,7 @@
      - Đăng nhập 
      - Tìm kiếm SIM 
      - Đăng kí 
-     -Thanh toán 
+     - Thanh toán 
      
 #### 2. Mục tiêu học 
 - Tìm hiểu thêm một ngôn ngữ mới là REACT.JS
