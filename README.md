@@ -28,7 +28,7 @@
 *  Download NodeJS theo đường link : https://nodejs.org/en/download/
 *  Download phiên bản NodeJS phù hợp máy tính của bạn, giải nén và thực hiện chạy và cài theo mặc định.
 *  Để kiểm tra xem bạn đã cài đặt thành công hay chưa???
- Mở của sổ Command Promt 
+ Mở Command Promt 
  Gõ lần lượt ***node --version*** và ***npm --version*** để xem phiên bản cài đặt
  ![alt](https://github.com/luyen175638/luyen2107/blob/master/media/a2.png)
 # Hướng dẫn sử dụng
