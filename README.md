@@ -48,6 +48,7 @@ Bước 4 : Khi Đã hiện **cmd** => gõ **cd my-ap** => gõ **npm start**
 ### Hướng dẫn sử dụng Web
 #### 1. Một trang Web bán SIM gồm : ###
 *  **Home** 
+![alt](https://github.com/luyen175638/luyen2107/blob/master/media/a3.png)
 *  **Pay** : Thông tin về số tài khoản của chủ cửa hàng 
 * **Guide** : Hướng Dẫn vè cách mua hàng và cách thanh toán 
 * **Contact** : Đại chỉ của của hàng 
