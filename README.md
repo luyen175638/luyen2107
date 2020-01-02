@@ -42,6 +42,7 @@ Bước 3 : Vào **Foler-project1** => ấn **cmd**
 
 Bước 4 : Khi Đã hiện **cmd** => gõ **cd my-ap** => gõ **npm start** 
 để chạy project của bạn
+
  =======> chạy project thành công 
  
 ### Hướng dẫn sử dụng Web
