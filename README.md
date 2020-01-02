@@ -22,7 +22,7 @@
 ##### 1. Cài đặt Visual Studio Code
 *  Download Visual Studio Code theo đường link: https://code.visualstudio.com/download/
 *  Download Visual Studio Code về giải nén và thực hiện chạy và cài theo mặc định.
-![alt](https://github.com/luyen175638/luyen2107/master/media/a1.png)
+![alt](https://github.com/luyen175638/luyen2107/blob/master/media/a1.png)
 ##### 2. Cài đặt NodeJS
 *  Download NodeJS theo đường link : https://nodejs.org/en/download/
 *  Download phiên bản NodeJS phù hợp máy tính của bạn, giải nén và thực hiện chạy và cài theo mặc định.
