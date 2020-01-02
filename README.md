@@ -39,7 +39,7 @@ Bước 1 : Mở  Visual Studio Code
 
 Bước 2 : Chọn **File** => **Open Folder** => chọn folder **project1** => chọn **Select Foler**
 
-Bước 3 : Vào **Foler-project1** => ấn **cmd**
+Bước 3 : Vào **Foler-project1** trên thanh công cụ => gõ **cmd**
 
 Bước 4 : Khi Đã hiện **cmd** => gõ **cd my-ap** => gõ **npm start** 
 để chạy project của bạn
