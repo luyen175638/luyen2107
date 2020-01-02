@@ -3,6 +3,8 @@
 * Tạo một trang Web bán **SIM** với các chức năng:
      - Đăng nhập 
      - Tìm kiếm SIM 
+     - Đăng kí 
+     -Thanh toán 
      
 #### 2. Mục tiêu học 
 - Tìm hiểu thêm một ngôn ngữ mới là REACT.JS
@@ -17,7 +19,6 @@
 - Bootstrap
 - Node.js
 - Visual Studio Code
-##### 2. Backend
 # Hướng Dẫn Cài Đặt
 ##### 1. Cài đặt Visual Studio Code
 *  Download Visual Studio Code theo đường link: https://code.visualstudio.com/download/
@@ -54,7 +55,8 @@ Bước 4 : Khi Đã hiện **cmd** => gõ **cd my-ap** => gõ **npm start**
          * Tổng điểm của số
          * Giá tiền 
  => Khi đã tìm được số mà mình mong muốn người mua ấn vào mục **Chọn sim**        
-![alt](https://github.com/luyen175638/luyen2107/blob/master/media/a3.png)
+ 
+ ![alt](https://github.com/luyen175638/luyen2107/blob/master/media/a3.png)
 *  **Pay** : Thông tin về số tài khoản của chủ cửa hàng
 
 ![alt](https://github.com/luyen175638/luyen2107/blob/master/media/a4.png)
