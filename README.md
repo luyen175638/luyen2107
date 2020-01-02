@@ -53,7 +53,12 @@ Bước 4 : Khi Đã hiện **cmd** => gõ **cd my-ap** => gõ **npm start**
          * Nhà mạng
          * Đầu số 
          * Tổng điểm của số
-         * Giá tiền 
+         * Giá tiền
+     * Hiển thị danh sách số điện thoại gồm có : 
+         * Giá tiền
+         * Tổng số
+         * Tên mạng 
+         * Kiểu sim 
  => Khi đã tìm được số mà mình mong muốn người mua ấn vào mục **Chọn sim**        
  
  ![alt](https://github.com/luyen175638/luyen2107/blob/master/media/a3.png)
