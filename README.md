@@ -19,6 +19,10 @@
 - Bootstrap
 - Node.js
 - Visual Studio Code
+##### 2. Backend
+- Node.js/Express
+- MySQL Server
+- MongoDB Server
 # Hướng Dẫn Cài Đặt
 ##### 1. Cài đặt Visual Studio Code
 *  Download Visual Studio Code theo đường link: https://code.visualstudio.com/download/
@@ -31,6 +35,14 @@
  Mở Command Promt 
  Gõ lần lượt ***node --version*** và ***npm --version*** để xem phiên bản cài đặt
  ![alt](https://github.com/luyen175638/luyen2107/blob/master/media/a2.png)
+ ##### 3. Cài đặt MySQL Server
+*  Download MySQL Server theo đường link: https://dev.mysql.com/downloads/file/?id=490394
+*  Download MySQL Server về giải nén và thực hiện chạy và cài theo mặc định.
+![alt](https://github.com/luyen175638/luyen2107/blob/master/media/a9.png)
+##### 4. Cài đặt MongoDB Server
+*  Download MongoDB Server theo đường link: https://www.mongodb.com/download-center/community
+*  Download MongoDB Server về giải nén và thực hiện chạy và cài theo mặc định.
+![alt](https://github.com/luyen175638/luyen2107/blob/master/media/a10.png)
 # Hướng dẫn sử dụng
 ***Frontend*** 
 ### Hướng dẫn chạy Project
