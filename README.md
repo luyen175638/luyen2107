@@ -47,21 +47,28 @@ Bước 4 : Khi Đã hiện **cmd** => gõ **cd my-ap** => gõ **npm start**
  
 ### Hướng dẫn sử dụng Web
 #### 1. Một trang Web bán SIM gồm : ###
-*  **Home** 
+*  **Home** :
+     *  Danh mục tìm kiếm sim theo :
+         * Nhà mạng
+         * Đầu số 
+         * Tổng điểm của số
+         * Giá tiền 
+ => Khi đã tìm được số mà mình mong muốn người mua ấn vào mục **Chọn sim**        
 ![alt](https://github.com/luyen175638/luyen2107/blob/master/media/a3.png)
 *  **Pay** : Thông tin về số tài khoản của chủ cửa hàng
+
 ![alt](https://github.com/luyen175638/luyen2107/blob/master/media/a4.png)
 
 * **Guide** : Hướng Dẫn vè cách mua hàng và cách thanh toán 
 
 ![alt](https://github.com/luyen175638/luyen2107/blob/master/media/a5.png)
-* **Contact** : Đại chỉ của của hàng 
+* **Contact** : Địa chỉ của của hàng 
 
 ![alt](https://github.com/luyen175638/luyen2107/blob/master/media/a6.png)
-* **Login**
+* **Login** : Đăng nhập tài khoản 
 
 ![alt](https://github.com/luyen175638/luyen2107/blob/master/media/a7.png)
-* **Sigup**
+* **Sigup** : Đăng ký tài khoản
 
 ![alt](https://github.com/luyen175638/luyen2107/blob/master/media/a8.png)
 
