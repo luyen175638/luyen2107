@@ -32,7 +32,7 @@
  ![alt](https://github.com/luyen175638/luyen2107/blob/master/media/a2.png)
 # Hướng dẫn sử dụng
 ***Frontend*** 
-##### Hướng dẫn chạy Project
+### Hướng dẫn chạy Project
 
 Bước 1 : Mở  Visual Studio Code
 
@@ -44,7 +44,7 @@ Bước 4 : Khi Đã hiện **cmd** => gõ **cd my-ap** => gõ **npm start**
 để chạy project của bạn
  =======> chạy project thành công 
  
-## Hướng dẫn sử dụng Web
+### Hướng dẫn sử dụng Web
 #### 1. Một trang Web bán SIM gồm : ###
 *  **Home** 
 *  **Pay** : Thông tin về số tài khoản của chủ cửa hàng 
