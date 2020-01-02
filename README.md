@@ -66,10 +66,10 @@ Bước 4 : Khi Đã hiện **cmd** => gõ **cd my-ap** => gõ **npm start**
 
 ![alt](https://github.com/luyen175638/luyen2107/blob/master/media/a4.png)
 
-* **Guide** : Hướng Dẫn vè cách mua hàng và cách thanh toán 
+* **Guide** : Hướng dẫn về cách mua hàng và cách thanh toán 
 
 ![alt](https://github.com/luyen175638/luyen2107/blob/master/media/a5.png)
-* **Contact** : Địa chỉ của của hàng 
+* **Contact** : Địa chỉ của cửa hàng 
 
 ![alt](https://github.com/luyen175638/luyen2107/blob/master/media/a6.png)
 * **Login** : Đăng nhập tài khoản 
