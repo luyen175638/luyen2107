@@ -32,7 +32,7 @@
  ![alt](https://github.com/luyen175638/luyen2107/blob/master/media/a2.png)
 # Hướng dẫn sử dụng
 ***Frontend*** 
-## Hướng dẫn chạy Project
+##### Hướng dẫn chạy Project
 
 Bước 1 : Mở  Visual Studio Code
 
