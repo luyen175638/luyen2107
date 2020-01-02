@@ -49,11 +49,21 @@ Bước 4 : Khi Đã hiện **cmd** => gõ **cd my-ap** => gõ **npm start**
 #### 1. Một trang Web bán SIM gồm : ###
 *  **Home** 
 ![alt](https://github.com/luyen175638/luyen2107/blob/master/media/a3.png)
-*  **Pay** : Thông tin về số tài khoản của chủ cửa hàng 
+*  **Pay** : Thông tin về số tài khoản của chủ cửa hàng
+![alt](https://github.com/luyen175638/luyen2107/blob/master/media/a4.png)
+
 * **Guide** : Hướng Dẫn vè cách mua hàng và cách thanh toán 
+
+![alt](https://github.com/luyen175638/luyen2107/blob/master/media/a5.png)
 * **Contact** : Đại chỉ của của hàng 
+
+![alt](https://github.com/luyen175638/luyen2107/blob/master/media/a6.png)
 * **Login**
-* **Logup**
+
+![alt](https://github.com/luyen175638/luyen2107/blob/master/media/a7.png)
+* **Sigup**
+
+![alt](https://github.com/luyen175638/luyen2107/blob/master/media/a8.png)
 
 
 
